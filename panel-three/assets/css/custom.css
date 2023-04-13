@@ -1,0 +1,87 @@
+body {
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: rgb(237, 238, 243);
+    color:rgb(27, 27, 27);
+}
+
+.logo {
+    width: 2.5%;
+}
+
+#main-navbar {
+    background-color:rgb(183, 197, 226);
+}
+
+.btn-outline-dark {
+    border-radius: 50px;
+}
+
+.burger {
+    color:rgb(27, 27, 27);
+}
+
+h2, .heading {
+    font-family: gelica, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.gallery {
+    font-size: 20px;
+}
+
+.site-portfolio {
+    background-color:rgb(247, 247, 247);
+}
+
+.heading {
+    font-size: 45px;
+    padding-bottom: 50px;
+
+}
+
+.hover {
+    font-family: gelica, sans-serif;
+    font-weight: 500;
+    font-style: normal;   
+
+}
+
+.h4 {
+    font-size: 25px;
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
+}
+
+li {
+    line-height: 2em;
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    font-size: 20px;
+}
+
+.mb-1 {
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
+
+a:link.credit-link {
+    text-decoration: underline;
+}
+
+.footer {
+    background-color:rgb(247, 247, 247);
+    padding-top: 80px;
+}
